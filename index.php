@@ -7,6 +7,7 @@
 <body>
 <h1>Tere maailm!</h1>
 <hr>
+<?= date('Y-m-d H:i:s') ?>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aliquam aperiam, aspernatur at deserunt doloribus
     id labore maxime nam obcaecati officia provident, repellat reprehenderit soluta sunt, tempora temporibus vitae
     voluptatum. Alias consectetur consequatur delectus deleniti dignissimos distinctio dolorum eum expedita fugiat illo
