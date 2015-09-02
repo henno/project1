@@ -28,5 +28,15 @@
     fugit hic inventore iusto laborum maiores minus, natus necessitatibus nemo nihil nostrum optio placeat porro
     possimus quae rerum, sequi velit? Est incidunt laborum quod. Alias culpa est explicabo facere hic iste libero magni
     maxime repudiandae vero!</p>
+<table border="1">
+    <tr>
+        <td>Esimene</td>
+        <td>Teine</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+</table>
 </body>
 </html>
